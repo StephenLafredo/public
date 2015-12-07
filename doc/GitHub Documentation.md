@@ -8,16 +8,18 @@
 
 [GitHub Bootcamp] (https://help.github.com/categories/bootcamp)
 
-[GitHub Flow] (https://guides.github.com/introduction/flow/)
+__GitHub Flow__
+* [GitHub Flow] (https://guides.github.com/introduction/flow/)
+* [GitHub Flow PDF] (https://guides.github.com/pdfs/githubflow-online.pdf)
 
-GitHub Cheat Sheets
-* https://training.github.com/kit/
-* https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+__GitHub Cheat Sheets__
+* [GitHub Cheat Sheets, online] (https://training.github.com/kit/)
+* [GitHub Cheat Sheets, online] (https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
 [GitHub Guides] (https://guides.github.com)
 
 [Writing on GitHub] (https://help.github.com/categories/writing-on-github/)
 
-[GitHub Markdown] (https://help.github.com/articles/markdown-basics/)
-
-[GitHub Markdown PDF] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+__GitHub Markdown__
+* [GitHub Markdown] (https://help.github.com/articles/markdown-basics/)
+* [GitHub Markdown PDF] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
