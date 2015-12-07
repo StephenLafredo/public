@@ -19,3 +19,5 @@ GitHub Cheat Sheets
 [Writing on GitHub] (https://help.github.com/categories/writing-on-github/)
 
 [GitHub Markdown] (https://help.github.com/articles/markdown-basics/)
+
+[GitHub Markdown PDF] (https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
