@@ -12,7 +12,7 @@ Configure default text editor, __git config --global core.editor "edit -w"__ # t
 
 Configure how git handles line endings, __git config --global core.autocrlf input__ # for Macintosh set to input
 
-Configure default value for push, __git config --global push.default matching__ # push all branches from local to remote
+Configure default value for push, __git config --global push.default simple__ # push all branches from local to remote
 
 Display git configuration, __git config --list__
 
