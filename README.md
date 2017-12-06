@@ -1,1 +1,1 @@
-# Stephen Lafredo's GitHub respository, public.
+# Stephen Lafredo's public GitHub respository
