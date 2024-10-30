@@ -2,7 +2,7 @@
 
 [Git SCM] (http://git-scm.com)
 
-[Git Book] (http://git-scm.com/book/en/v20)
+[Git Book] (http://git-scm.com/doc)
 
 [GitHub Glossary] (https://help.github.com/articles/github-glossary/)
 
